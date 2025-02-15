@@ -30,12 +30,20 @@ Este proyecto trata de la costrucción de un ciclo completo de datos para seguir
     - __Fecha de postulación:__ Mostrará de forma predeterminada la fecha en la que se está ingresando a la app.
     - __Estado de postulación:__ El estado inicial de una postulación siempre será "Postulación enviada".
     - __Plataforma de postulación:__ La plataforma que más uso es LinkedIn, por ende, está predeterminada en la lista de opciones.
+   
+<image src="https://github.com/BastianLQ/Analisis-de-postulaciones-en-tiempo-real/blob/main/Images/form.jpg" alt="Form">
+
 - __Desarrollar la vista de tabla de la app:__ La app también tiene una vista de tabla, que permite modificar los registros existentes, esto es útil para actualizar el estado de las postulaciones y para corregir errores de tipeo al ingresar datos.
+
+<image src="https://github.com/BastianLQ/Analisis-de-postulaciones-en-tiempo-real/blob/main/Images/table.jpg" alt="Tabla">
+
 - __Creación del panel de control en Looker Studio:__ Finalmente nos conectamos a la hoja de cálculo desde Looker Studio y construímos un panel interactivo para seguir los principales objetivos de la postulación, que son:
   - Realizar mínimo 7 postulaciones semanales.
   - Completar 200 postulaciones.
   - Encontrar trabajo remoto.
   - Apuntar a vacantes Junior o Trainee.
+
+<image src="https://github.com/BastianLQ/Analisis-de-postulaciones-en-tiempo-real/blob/main/Images/lookerstudio.jpg" alt="Looker Studio">
 
 ## Resultados del proyecto
 - Tardo menos de 5 segundos en registrar mis postulaciones, que es __la tercera parte de lo que tardaba antes__.
