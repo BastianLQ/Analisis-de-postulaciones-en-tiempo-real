@@ -45,6 +45,8 @@ Este proyecto trata de la costrucción de un ciclo completo de datos para seguir
 
 <image src="https://github.com/BastianLQ/Analisis-de-postulaciones-en-tiempo-real/blob/main/Images/lookerstudio.jpg" alt="Looker Studio">
 
+_Para interactuar con el dashboard hacer click [aquí](https://lookerstudio.google.com/reporting/6d4f8ac6-b3e7-40bc-918a-fbfa1bde142a)_
+
 ## Resultados del proyecto
 - Tardo menos de 5 segundos en registrar mis postulaciones, que es __la tercera parte de lo que tardaba antes__.
 - Si recibo una actualización del estado de postulación, __puedo actualizarla en segundos desde mi smartphone__.
