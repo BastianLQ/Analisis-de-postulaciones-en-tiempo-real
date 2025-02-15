@@ -1,6 +1,8 @@
 # Proyecto end to end: Ciclo completo de datos para postulaciones de trabajo
 __Flujo completo de datos por AppSheet, Google Sheets y Looker Studio__
 
+<image src="https://github.com/BastianLQ/Analisis-de-postulaciones-en-tiempo-real/blob/main/Images/banner.png" alt="banner">
+
 ## Descripción del proyecto
 Este proyecto trata de la costrucción de un ciclo completo de datos para seguir mis postulaciones de trabajo en análisis de datos. Los datos son recopilados mediante una app que creé usando AppSheet, donde pasan a ser almacenados en una hoja de Google Sheets y, finalmente, ser analizados usando Looker Studio en tiempo real.
 
