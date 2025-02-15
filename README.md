@@ -26,7 +26,18 @@ Este proyecto trata de la costrucción de un ciclo completo de datos para seguir
     - __Estado de postulación:__ El estado inicial de una postulación siempre será "Postulación enviada".
     - __Plataforma de postulación:__ La plataforma que más uso es LinkedIn, por ende, está predeterminada en la lista de opciones.
 - __Desarrollar la vista de tabla de la app:__ La app también tiene una vista de tabla, que permite modificar los registros existentes, esto es útil para actualizar el estado de las postulaciones y para corregir errores de tipeo al ingresar datos.
-- __Creación del panel de control en Looker Studio:__
+- __Creación del panel de control en Looker Studio:__ Finalmente nos conectamos a la hoja de cálculo desde Looker Studio y construímos un panel interactivo para seguir los principales objetivos de la postulación, que son:
+  - Realizar mínimo 7 postulaciones semanales.
+  - Completar 200 postulaciones.
+  - Encontrar trabajo remoto.
+  - Apuntar a vacantes Junior o Trainee.
+
+## Resultados del proyecto
+- Tardo menos de 5 segundos en registrar mis postulaciones, que es __la tercera parte de lo que tardaba antes__.
+- Si recibo una actualización del estado de postulación, __puedo actualizarla en segundos desde mi smartphone__.
+- Si no tengo internet, la app igual funcionará, y los cambios serán ingresados cuando vuelva a tener conexión.
+- Gracias al panel automatizado, puedo identificar rápidamente las áreas a mejorar y las estrategias que me quedan por probar.
+
 
                                                               
 
