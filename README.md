@@ -21,6 +21,9 @@ Este proyecto trata de la costrucción de un ciclo completo de datos para seguir
   - __Estado de postulación__ (postulación enviada, vista, entrevista, etc.)
   - __Seniority de la posición (trainee, junior, ssr, etc.)__.
   - __Área/modalidad de trabajo (remoto, hibrido santiago, presencial santiago, etc.)__
+ 
+<image src="https://github.com/BastianLQ/Analisis-de-postulaciones-en-tiempo-real/blob/main/Images/sheets.jpg" alt="Sheets">
+
 - __Desarrollar el formulario de la app:__ Usando AppSheet desarrollé una app para trackear las postulaciones priorizando ahorrar el máximo tiempo posible. Esto se logró gracias a que:
   - Implementé listas desplegables en la mayoría de los campos.
   - Dejé valores predeterminados en los siguientes campos:
